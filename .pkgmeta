@@ -16,6 +16,9 @@ externals:
     Libs/AceGUI-3.0:
         url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceGUI-3.0
         tag: latest
+    Libs/CallbackHandler-1.0:
+        url: svn://svn.wowace.com/wow/callbackhandler/mainline/trunk/CallbackHandler-1.0
+        tag: latest
     Libs/LibStub:
         url: svn://svn.wowace.com/wow/libstub/mainline/trunk
         tag: latest
