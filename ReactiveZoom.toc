@@ -1,0 +1,10 @@
+## Interface: 70200
+## Version: 1.0
+## Title: ReactiveZoom
+## Author: mpstark
+## SavedVariables: ReactiveZoomDB
+## Notes: More reactive zoom.
+
+embeds.xml
+
+ReactiveZoom.lua
